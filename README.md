@@ -1,6 +1,5 @@
 # CampaignProject-Solidity-React
 
-Campaign project developped following an online course.
 
 The project was first developped with solidity 4.17, I've updated all the code to solidity 8.9, as well as many things regarding React and Nextjs.
 
